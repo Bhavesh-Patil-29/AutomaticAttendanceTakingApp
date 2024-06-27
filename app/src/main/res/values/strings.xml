@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Smart Attendance</string>
+    <string name="select">Select Class</string>
+    <string name="selectsub">Select Subject</string>
+    <string name="classnames">Select Class</string>
+    <string name="welcome_text">WELCOME</string>
+    <string name="submit">Submit</string>
+    <string name="subjectname">Select Subject</string>
+    <string name="Upload">Upload Image</string>
+    <string name="add_student">New Student</string>
+    <string name="register">REGISTER</string>
+    <string name="login_usernmae_hint">Username</string>
+    <string name="login_email_hint">Email</string>
+    <string name="login_password_hint">Password</string>
+    <string name="signup_login_hint">Already have an account? Sign In</string>
+    <string name="login_signup_hint">Don\'t have an account? Sign Up</string>
+
+    <string-array name="array_classname">
+        <item>Select Class</item>
+        <item>First</item>
+        <item>Second</item>
+        <item>Third</item>
+    </string-array>
+
+    <string-array name="array_default_subject">
+        <item>Select Subject</item>
+    </string-array>
+
+    <string-array name="array_first_subject">
+        <item>Select Subject</item>
+        <item>SECOND SEM</item>
+        <item>II-EEC</item>
+        <item>II-AMI</item>
+        <item>II-BEC</item>
+        <item>II-PCI</item>
+        <item>II-BCC</item>
+        <item>II-CPH</item>
+        <item>II-WPD</item>
+    </string-array>
+    <string-array name="array_second_subject">
+        <item>Select Subject</item>
+        <item>THIRD SEM</item>
+        <item>III-OOP</item>
+        <item>III-DSU2</item>
+        <item>III-POD</item>
+        <item>III-DCO</item>
+        <item>III-DTM</item>
+        <item>III-AMT</item>
+        <item>FOURTH SEM</item>
+        <item>IV-JPR</item>
+        <item>IV-SEN</item>
+        <item>IV-DMA</item>
+        <item>IV-CNE</item>
+        <item>IV-GAD</item>
+
+    </string-array>
+    <string-array name="array_third_subject">
+        <item>Select Subject</item>
+        <item>FIFTH SEM</item>
+        <item>V-EST</item>
+        <item>V-OSY</item>
+        <item>V-AJP</item>
+        <item>V-CSS</item>
+        <item>V-EDE</item>
+        <item>V-ITR</item>
+        <item>V-CPP</item>
+        <item>SIXTH SEM</item>
+        <item>VI-MGT</item>
+        <item>VI-MAD</item>
+        <item>VI-ETI</item>
+        <item>VI-WMN</item>
+        <item>VI-WBP</item>
+        <item>VI-CPE</item>
+
+
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
